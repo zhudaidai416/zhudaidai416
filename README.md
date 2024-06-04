@@ -6,7 +6,7 @@
 
 🌱日常迷糊~
 
-[![Gitee](https://img.shields.io/badge/Gitee-F7DF1E?logo=Gitee&logoColor=333)](https://gitee.com/zhudaidai)
+[![Gitee](https://img.shields.io/badge/-Gitee-c14438?style=flat&logo=Gitee&logoColor=white)](https://gitee.com/zhudaidai)
 [![myblog](https://img.shields.io/badge/朱呆呆个人博客-6666CC?logo=GoogleHome&logoColor=fff)](https://zhudaidai416.github.io/myblog)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=zhudaidai416.zhudaidai416)
 ![GitHub Stars](https://img.shields.io/github/stars/zhudaidai416?logo=Github&label=GitHub%20Stars)
